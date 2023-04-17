@@ -5,9 +5,9 @@ from atlassian import Bitbucket
 
 BITBUCKET_URL = 'https://bitbucket.org'
 BITBUCKET_USERNAME = 'frank_corona'
-BITBUCKET_TOKEN = 'ATBBJmBCu47Y2fbP93D9kMmTcXDaBB7F044C'
-BITBUCKET_WORKSPACE = 'zerosurcharging'
-BITBUCKET_REPO = 'audit-service'
+BITBUCKET_TOKEN = '******'
+BITBUCKET_WORKSPACE = '******'
+BITBUCKET_REPO = '******'
 BITBUCKET_BRANCH = 'develop'
 
 
